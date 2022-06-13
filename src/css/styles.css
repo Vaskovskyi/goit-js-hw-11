@@ -11,16 +11,6 @@ body {
   width: 100vw;
   height: 100vh;
   margin: 0;
-  background-image: repeating-linear-gradient(to bottom right,
-      rgba(255, 255, 255, 0),
-      rgba(255, 255, 255, 0) 14px,
-      rgba(0, 189, 214, 0.15) 2px,
-      rgba(0, 189, 214, 0.15) 16px),
-    repeating-linear-gradient(to bottom left,
-      rgba(255, 255, 255, 0),
-      rgba(255, 255, 255, 0) 14px,
-      rgba(0, 189, 214, 0.15) 2px,
-      rgba(0, 189, 214, 0.15) 16px);
 }
 
 .search-form {
